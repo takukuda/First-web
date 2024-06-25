@@ -1,1 +1,1 @@
-aleat('Hello,Takuma!');
+alert('Hello,Takuma!');
